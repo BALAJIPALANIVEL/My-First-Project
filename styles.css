@@ -1,0 +1,208 @@
+*{
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+body{
+    background-color: rgb(222, 224, 196);
+   
+    
+}
+.head{
+    background-color: rgb(51, 1, 1);
+    height: 60px;
+    width: 100%;
+    position:-webkit-sticky;
+    
+}
+.head h1{
+    margin-top: 17px;
+    color: white;
+    font-size: x-large;
+    margin-left: 130px;
+    display: inline-block;
+    position: absolute;
+}
+
+.one{
+    margin-top: 14%;
+    background-color: rgba(230, 228, 228, 0.897);
+    height: 160px;
+    width: 500px;
+    color: black;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;  
+}
+.one h1{
+    padding: 46px;
+    font-weight: bolder;
+    text-shadow: 2px 2px 2px rgb(128, 87, 87);
+}
+#hi{
+   margin-left: 53%;
+   height: 380px;
+   width: 260px;
+   position: absolute;
+ top: 195px;
+}
+#hi:hover{
+  height: 374px;
+  width: 250px;
+}
+#hello{
+    height: 309px;
+    width: 267px;
+    position: absolute;
+    margin-left: 76%;
+    top: 237px;
+}
+#hello:hover{
+    height: 300px;
+    width: 260px;
+}
+#img3{
+    height: 350px;
+    width: 270px;
+    position: absolute;
+    margin-left: 65%;
+    top: 214px;
+}
+#img3:hover{
+    height: 340px;
+    width: 260px;
+}
+img{
+    height: 50px;
+    width: 60px;
+    display: inline-block;
+    margin-left: 60px;
+    margin-top: 4px;
+    position: absolute;
+}
+head #nav1,li{
+
+    display:inline;
+   }
+   #nav1 {
+       margin-left: 70%;
+       position: absolute; 
+       margin-top: 22px;
+       }
+    #nav1 a{
+        text-decoration: none;
+    }
+   .head #specialchar{
+    margin-left: 85%;
+    font-size: xx-large;
+    position: absolute;
+    margin-top: 9px;
+   }
+   #nav1 li{
+    color: white;
+     padding-right: 20px;
+    }
+ 
+ 
+#nav1 li:hover{
+   cursor: pointer;
+   color: rgb(230, 228, 120);
+}
+
+.one img{
+    height: 300px;
+    width: 500px;
+    position: absolute;
+    margin-left: 0%;
+    margin-top: 0%;
+}
+
+#logsign{
+    padding-left:80px;
+    margin-left: 82%;
+    margin-top: 21px;
+    position: absolute;
+}
+#logsign li button{
+    border-radius: 9px;
+    background-color: rgb(169, 196, 119);
+    color: rgb(77, 4, 4);
+    padding-left: 8px;
+    padding-right: 8px;
+}
+#logsign li button:hover{
+    cursor: pointer;
+    background-color: white;
+}
+.two{
+    position: absolute;
+    margin-top:26%;
+    padding: 30px;
+    background-color: rgb(71, 3, 3);
+    color: white;
+}
+
+
+.three{
+    margin-top: 50%;
+}
+.three {
+    background-color: rgb(170, 83, 6);
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+    font-style: inherit;
+    height: 240px;
+}
+.three #title{
+    position: absolute;
+   
+    margin-left: 5%;
+    margin-top: 1%;
+}
+.three img{
+    height: 60px;
+    width: 60px;
+    margin-left: 1%;
+}
+.three #about{
+    position: absolute;
+    margin-left: 40%;
+    top: 1278px;
+}
+.three #aboutpara{
+    position: absolute;
+    margin-top: 4.5%;
+    margin-left: 40%;
+    
+}
+.three #Contactus{
+    position: absolute;
+    margin-left: 68%;
+    top: 1278px;
+}
+.three #Contactuspara ul{
+    position: absolute;
+    margin-top: 4.5%;
+ 
+    margin-left: 66%;
+    
+}
+.three #line1{
+    padding: 10px;
+}
+.three #line2{
+    margin-top: 13%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

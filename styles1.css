@@ -1,0 +1,28 @@
+body{
+    background-color: whitesmoke;
+}
+.one{
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    height:260px;
+    width: 330px;
+    margin-top: 15%;
+    margin-left: 37%;
+    border-radius: 30px;
+}
+.one h1{
+    text-align: center;
+}
+.one table{
+    margin-top:10px;
+    margin-left: 12px;
+}
+.one button{
+    margin-left: 141px;
+    position: absolute;
+    margin-top: 37%;
+}
+
+.one tr{
+    background-color: rgb(72, 221, 151);
+}
